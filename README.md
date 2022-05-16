@@ -4,4 +4,4 @@ shellcode loader using antidbg techniques + direct syscalls + 1 byte xor for EDR
 
 build as x64 only cuz syscalls are x64 (duh.), but you can change to x86 just replace x64 structs with x86. I got mine from syswhispers (as you can see from sysopen.*). 
 
-have fun with this project and make some modifications, go learn how to beat different detections!
+have fun with this project and make some modifications, go learn how to beat different types of detections!
