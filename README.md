@@ -4,6 +4,8 @@ releasing this because i need something for my resume lol. this is a shellcode l
 
 build as x64 only cuz syscalls are x64 (duh.), but you can change to x86 just replace x64 structs with x86. I got mine from syswhispers (as you can see from sysopen.*). 
 
+
+dm me on twitter (@mookyfun) if you have questions or want to show me something cool that you learned.
 have fun with this project and make some modifications, go learn how to beat different types of detections!
 # antiscan.me result (scantime)
 
